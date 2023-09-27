@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
 
-<h3 align="left">About me: </h3>
+<h3 align="left">Sobre mi: </h3>
 
 - 🔭 I’m currently working on [Apple](www.apple.com)
 
@@ -23,7 +23,7 @@
 - 📫 How to reach me **tzdata1100@gmail.com**
 social networks
   
-## Animated Social Media Icons
+## Redes Sociales
 
 <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
@@ -33,7 +33,7 @@ social networks
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes que controlo ;) </h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -58,7 +58,7 @@ social networks
 <br><br>  
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Soporte:</h3>
 <p><a href="https://www.buymeacoffee.com/GuilleJimenez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GuilleJimenez" /></a><a href="https://ko-fi.com/GuilleJimenez"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GuilleJimenez" /></a></p><br><br>
 
 <br> 
